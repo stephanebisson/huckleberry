@@ -9,4 +9,42 @@ body {
   padding: 0;
 }
 
+p {
+  line-height: 1.5em;
+}
+
 /* Add styles here! */
+.max-width-wrapper {
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro-chunk {
+  padding: 48px 16px;
+  max-width: 360px;
+}
+
+.intro-chunk strong {
+  color: green;
+}
+
+main {
+  background-color: #656161;
+  border-top: lightgrey solid 5px;
+  padding: 48px 0;
+}
+
+.card {
+  background-color: white;
+  padding: 8px 16px 16px 16px;
+  border-bottom: solid lightgrey 5px;
+}
+
+.indented-heading {
+  background-color: orange;
+  width: fit-content;
+  padding: 16px 24px;
+  margin: 0 0 0 -24px;
+  border-bottom: solid darkorange 5px;
+}
