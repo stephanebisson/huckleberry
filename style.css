@@ -9,11 +9,12 @@ body {
   padding: 0;
 }
 
+/* Add styles here! */
+
 p {
   line-height: 1.5em;
 }
 
-/* Add styles here! */
 .max-width-wrapper {
   max-width: 610px;
   margin-left: auto;
